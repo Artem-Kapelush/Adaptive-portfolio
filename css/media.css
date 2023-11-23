@@ -1,4 +1,7 @@
-@media (max-width: 1230px) {
+@media (max-width: 425px) {
+	.container {
+	    max-width: 425px;
+	}
 	.nav-list {
 		display: none;
 	}
